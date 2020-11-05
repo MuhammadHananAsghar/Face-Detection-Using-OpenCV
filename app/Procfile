@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Face_Detector_By_Muhammad_Hanan_Asghar.py
